@@ -1,6 +1,6 @@
 %define name whichman
 %define version 2.4
-%define release 1mdk
+%define release %mkrel 1
 
 Summary: Fault tolerant search utilities
 Name: %{name}
