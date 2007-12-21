@@ -13,6 +13,7 @@ Source: %{name}-%{version}.tar.bz2
 Patch: whichman-makefile.patch.bz2
 #Patch: whichman-2.0-makefile_manpage.patch.bz2
 #Patch1: whichman-2.0-lfs_mancompliant.patch.bz2
+Buildroot: %{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 ftff, ftwhich and whichman are fault tolerant search utilities.
