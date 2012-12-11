@@ -1,2 +1,3 @@
 sources:
-  "whichman-2.4.tar.bz2:"	5b2b18186038dc438b1609ede9cacd35f0317e9a
+  "whichman-2.4.tar.bz2": 5b2b18186038dc438b1609ede9cacd35f0317e9a
+  "whichman-makefile.patch.bz2": 74b4f667dec1784c7e38538c0519772c8871452e
