@@ -8,7 +8,7 @@ Version: %{version}
 Release: %{release}
 License: GPL
 Group: File tools
-Url: http://main.linuxfocus.org/~guido/
+Url: https://main.linuxfocus.org/~guido/
 Source: %{name}-%{version}.tar.bz2
 Patch: whichman-makefile.patch.bz2
 #Patch: whichman-2.0-makefile_manpage.patch.bz2
