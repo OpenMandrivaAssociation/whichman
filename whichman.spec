@@ -15,6 +15,7 @@ Patch: whichman-makefile.patch.bz2
 #Patch1: whichman-2.0-lfs_mancompliant.patch.bz2
 Buildroot: %{_tmppath}/%{name}-%{version}-buildroot
 
+BuildRequires:	make
 %description
 ftff, ftwhich and whichman are fault tolerant search utilities.
 whichman allows to search for man pages that match approximately the specified
